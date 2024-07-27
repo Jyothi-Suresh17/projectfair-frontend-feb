@@ -1,0 +1,1 @@
+export const serverUrl='http://localhost:4000' //port should be in http format and not in https
